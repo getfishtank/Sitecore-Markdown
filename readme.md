@@ -8,7 +8,9 @@ Please see this blog post for the most detailed instructions.
 Purpose
 ----
 
-To introduce a simpler, quicker, more elegant way to author content in Sitecore CMS (aka let content authors use Markdown!)
+To introduce a simpler, quicker, more elegant way to author content in Sitecore CMS.  
+
+It's not meant to entirely replace HTML in all cases, but to complement it.  After all HTML is an XML publishing format.  Markdown is pure writing format.
 
 How To Use
 -----
