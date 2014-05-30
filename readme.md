@@ -15,7 +15,7 @@ It's not meant to entirely replace HTML in all cases, but to complement it.  Aft
 How To Use
 -----
 
-When the installation is complete select the **Markdown** field type in your template.  Use the *Source* attribute of the field located in the items template to configure.  This way, your attributes are applied using *<sc:RenderField />* and when indexed/accessed via the ContentSearch API.  
+When the installation is complete select the **Markdown** field type in your template.  Use the *Source* attribute of the field located in the items template to configure.  This way, your attributes are applied using *&lt;sc:RenderField /&gt;* and when indexed/accessed via the ContentSearch API.  
 
 
 ![Markdown Field in Sitecore](http://getfishtank.ca/~/media/images/fishtank/markdown-01-field-in-sitecore.jpg "Markdown ")
